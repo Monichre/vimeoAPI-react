@@ -10,6 +10,7 @@
 *	Edit this section
 *
 * ======================================================= */
+
 body {
   font-family: "Inconsolata", Arial, sans-serif;
   font-weight: 300;
@@ -202,6 +203,7 @@ h1, h2, h3, h4, h5, h6 {
         padding-left: 0px; } }
 
 #fh5co-home {
+    background-image: url(../images/jud-red.jpg);
   background-color: transparent;
   background-size: cover;
   position: relative;
@@ -427,6 +429,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%; }
   .core-features .grid2 {
     width: 50%;
+    /*background-image: url(../images/camera_2.jpg);*/
     background-size: cover;
     background-position: center center;
     position: relative; }

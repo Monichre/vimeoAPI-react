@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import Home from './Components/Home.js';
 var videos = require('./api.js').videos;
 
 
@@ -10,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
+          <Home />
       </div>
     );
   }
